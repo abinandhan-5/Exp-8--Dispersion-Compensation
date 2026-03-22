@@ -1,6 +1,4 @@
-
-# Dispersion-Compensation
-# Dispersion Compensation
+# EXP-8: Dispersion Compensation
 
 ## Objective
 Design and simulate a fiber optic system using dispersion-compensating fiber to reduce chromatic dispersion.
@@ -74,6 +72,10 @@ The main physical components of this layout are:
 - Record similar measurements for comparison.  
 
 ---
+## Tabulation and Calculation
+![WhatsApp Image 2026-03-22 at 9 12 22 PM (1)](https://github.com/user-attachments/assets/fffff095-05c9-49eb-8e98-8847ea70d839)
+
+![WhatsApp Image 2026-03-22 at 9 12 22 PM (2)](https://github.com/user-attachments/assets/52076b3d-fd60-4d08-830d-62d565959608)
 
 ## Conclusions
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
