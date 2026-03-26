@@ -26,6 +26,8 @@ Therefore, given target values for chromatic dispersion and attenuation loss plu
 - Attenuation: 0.5 dB/km at 1550 nm  
 
 ---
+## Block Diagram
+<img width="510" height="301" alt="image" src="https://github.com/user-attachments/assets/1c6a21d5-79bd-428b-9001-8ef39e4a2325" />
 
 ## Calculations
 1. Determine the maximum allowable fiber loss  
